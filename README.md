@@ -1,7 +1,7 @@
-Universidad de cartagena
-Prof: Jhon Arrieta
-Materia: Desarrollo de APP
-Desarrollado por Eduardo Gomez (7501920024)
+Universidad de cartagena<br>
+Prof: Jhon Arrieta<br>
+Materia: Desarrollo de APP<br>
+Desarrollado por Eduardo Gomez (7501920024)<br>
 
 
 📱 TiendaComputadoresApp
