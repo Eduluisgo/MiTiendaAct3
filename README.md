@@ -1,7 +1,7 @@
-#📱 TiendaComputadoresApp
+📱 #TiendaComputadoresApp
 Aplicación Android desarrollada en Kotlin que simula una tienda de computadores. Permite visualizar productos, filtrarlos por categoría, añadirlos al carrito y simular una compra. Con integración a la API de FakeStoreAPI, uso de Firebase y sensores del dispositivo.
 
-#🛠️ Tecnologías utilizadas
+🛠️ #Tecnologías utilizadas
 
 Kotlin (lenguaje principal)
 
