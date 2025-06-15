@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Actividad 3 mi tienda</string>
+    <string name="Carrito">carrito</string>
+    <string name="Salir">salir</string>
+    <string name="a_adir_al_carrito">Añadir al carrito</string>
+    <string name="confirmar_comprar">Confirmar comprar</string>
+    <string name="vaciar_carrito">Vaciar Carrito</string>
+</resources>
